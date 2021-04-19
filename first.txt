@@ -1,2 +1,7 @@
 Git 練習
 文字を追加したよ
+
+Git add
+Git commit
+Git rm
+
